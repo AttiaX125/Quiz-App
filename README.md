@@ -1,5 +1,7 @@
 # Quiz App 🧠🎯
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://quiz-app-pearl-mu-30.vercel.app)
+
 A fully functional Quiz Application built with **React + TypeScript + TailwindCSS** that lets users select the number of questions, difficulty, and question type from the [Open Trivia DB API](https://opentdb.com/), and then take a quiz with score tracking and result visualization.
 
 ## 🚀 Features
